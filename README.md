@@ -1,3 +1,3 @@
 # e-commerceClonner
-THIS IS THE E-COMMERCE WEB API CLONE PROJECT AND ITS BUILD USING NODE.JS(EXPRESS) AND MYSQL FOR THE DATABASE. 
+this is a e-commerce web api clone project and its build using node.js(express) and mysql for the database.
 
